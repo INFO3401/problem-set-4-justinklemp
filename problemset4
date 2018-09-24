@@ -1,0 +1,35 @@
+Justin Klemperer
+INFO3401
+PROBLEM SET #4
+
+Monday:
+
+1.)  Peter Naur is famously quoted as saying data science "deals with the data, while the actual relation of data to what they represent should occur in other fields." What might be problematic in this statement? Why do you think he'd choose to frame data science this way?:
+    My interpretation from this quote suggests that while data science does deal with data, it may not be related to how the data originally was collected and occured, showing that there is a gap between the fields that collect the data and those who interpret the data. I do agree that those who collected the data most likely are more familiar with the context and possible issues associated with how the data is represented or collected. I believe that Naur's description ultimately attempts to highlight the differences between the separate fields that use the data.
+    
+    Wednesday:
+    
+    2.) There was a substantial shift in the ways we define data science between the 1970s and the early 2000s. Describe this shift and why it may have emerged:
+        New research, technological advancements, and the growth of data science becoming a popular study are important factors in the shift between the 1970s and early 2000's. Technology was in an infancy stage, with data being collected but nobody really knew what to do with the data itself. As time passed on, and the technology became more powerful and less costly, a large expansion in growth occurred that started to capture mass data that can be used to generate new insights and consumer behavior throughout early development of data science.
+        
+    3.) The idea of "big data" dominates much of modern data science. However, data is still growing at an exponential rate.:
+        
+        a.) What factors do you think may have led to this growth? Mention at least three and describe why they have contributed to recent explosions in data volume.
+        
+            The creation of the internet. This has led to massive growth in data rate, and the newly found access to users across the world has generated opportunities to extract data like never before. Everyday individuals could now interact with each other and share information online, spreading new found knowledge for everyone to access. Producing and collecting data from the internet is seemingly overwhelming in today's society due to the sheer mass of users and datasets available today due to the creation of the internet.
+            
+            Technological Advancements. Without the advancement of technology, we would still be paying $14 million to store 1TB. As computing power has increased, the need for greater bandwidth, cheaper storage, and faster computing times all became of importance to run new technologies functionally. We rely on these tools to access data, and without the advancements of our devices, we could not have the opportunity for data science that we do today.
+            
+            Business Success/Competition. Major business companies rely on the usage of data to accurately predict and understand consumer behavior patterns, as well as managing all internal aspects within a large organization requires the use of data to find even the smallest inefficiencies throughout large scale datasets. Much how we learned in lecture, companies have always been encouraged to collect data, even if they don't necessarily know what to do with it yet. The more information companies can collect on consumers, the better they can make strategic adjustments to satisfy consumer patterns.
+            
+        b.) Where is this new data coming from?:
+            The data is coming from all across the internet, as well as physical data from consumers,  but all of the data relies on the users that generate new information to be collected and interpreted. Data coding programs that have access to store and categorize data help societal success exponentially. As our technological advancements continue to improve, so does the output of new information and data by users. This could be because as a society, we are moving closer to our technological devices, and as interaction continues, so does our online footprint and the online input of data overall.
+            
+    Friday:
+    4.) Name three different data collection methods. How are they similar? How are they different? Consider using specific scenarios where you may need to collect data to ground your responses.:
+    
+    The first collection method that can be used is by conducting and launching a survey. Survey data allow access into a larger representation for the attitude or response to a set of questions. This collection method for data can be useful if you need to try and understand collective patterns across a group of people. Unlike interviews or log data, survey questions are usually quick and easy for the participant to interact with. It allows the researcher(s) to connect new patterns across multiple responses and attitudes based off survey conclusions.
+    
+    The second is data collection method is interviews. Interviews offer a more in depth approach to collect data on a more individualistic level that allows access into deeper conversations and questions that can help truly understand "why" individuals respond or believe the way that they do. This type of data collection is especially beneficial if you are researching a topic that requires in depth conversations to grasp a more complete understanding for how individuals think on certain topics and why they feel the way they do. I would not use this approach to generate connections for a large group, as interviews take the most time and effort to transcribe the data itself.
+    
+    Lastly, log data is another available option to collect data. By scraping large scale datasets, it allows access to completely unbiased data that is not affected by exterior biases that can happen with interviewing or surveys. What you see in log data is accurate representations of consumer behavior. Log data is especially useful if you need to understand the "big picture" across a vast multitude of users to try and generate universal connections that can be observable across many datasets.
